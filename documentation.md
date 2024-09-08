@@ -103,7 +103,7 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
         Maximum number of lines allowed to move back in history on retractions
 
     # Retract Hard
-       Hard retraction distance nd speed
+       Hard retraction distance and speed
 
     # Retract Soft
        Soft retraction distance and speed
