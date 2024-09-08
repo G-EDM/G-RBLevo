@@ -122,7 +122,7 @@ This is a little tricky but needs to be learned.
         
         The higher the value the higher the delay will be at the line end.
         
-        Forward motion is only allowed if the fAVG is below setpoint min, the default avergae is below setpoint min and some other stuff.
+        Forward motion is only allowed if the "full range AVG" (the small line on the right) is below setpoint min, the default average is below setpoint min and some other stuff.
         
         A soft retraction is triggered if the fAVG is above the fAVG treshhold.
         
