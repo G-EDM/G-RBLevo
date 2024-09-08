@@ -178,7 +178,7 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
 
 # Page 10
 
-    Set the steps per mm for XYZ. Need a restart to make the changes work.
+    Set the steps per mm for XYZ. Needs a restart to make the changes work.
     Also this is stored on SD card. If you SD card is available this will not work. The SD card with the settings need to be availabel on boot too.
     Will change this later to store this in the ESP storage.
 
