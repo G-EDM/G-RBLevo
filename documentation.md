@@ -76,13 +76,13 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
         Number of samples used from the full I2S batch. Better use the full batch here.
 
     # I2S rate kSps
-        Speed of the I2S reading. Changing this on runtime cna sometimes brick I2S. Don't change this within the process if the process is important.
+        Speed of the I2S reading. Changing I2S on runtime can sometimes brick I2S. Don't change this within the process if the process is important.
         
     # I2S Buffer Length
         dma_buf_len. I2S buffer size. The number of readings per I2S batch.
 
     # I2S Buffer Count
-        dma_buf_count. Basically the number of parallel batches. A higher value will geenrate outdated batches. 
+        dma_buf_count. Basically the number of parallel batches. A higher value will generate outdated batches. 
 
     # Averaging Rise
        If there is a rising edge detected the sample is pushed nth times to the sample buffer to speed up the rising of the average.
