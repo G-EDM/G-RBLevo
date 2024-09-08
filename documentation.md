@@ -138,7 +138,7 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
        If early exit on retractions is enabled it will exit retraction once the motion plan is at this point. 
 
     # Line end confirms
-       On a line end it will confirm the forwar motion x times before it moves to the next line. For arcs half of that value is used.
+       On a line end it will confirm the forward motion x times before it moves to the next line. For arcs half of that value is used.
 
     # ResetSenseQueue
        If enabled it will reset the sense queue before each step to wait for the next fresh most realtime reading.
@@ -162,13 +162,13 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
         ADC value treshhold. Count low readings only if the ADC value is above this. Helps to ignore noise etc.
 
     # High count at
-        Defines waht motion plan is interpreted as a high plan
+        Defines what motion plan is interpreted as a high plan
 
 # Page 8
 
     # DPM settings if RX/TX is used
 
-    Turn it on/off and change voltage current via UI.
+    Turn it on/off and change voltage or current via UI.
 
 # Page 9
 
