@@ -119,7 +119,7 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
         Only used for possible forward motion. if a forward motion is indicated it will collect this number of samples more to confirm it before each forward step.
 
     # FullRangeAVG size
-        Slow AVG/Full range AVG/ fAVG size. Numbe rof samples use to calculate the slow average. Shwon as the small line left in the scope. Turns red if above the treshhold.
+        Slow AVG/Full range AVG/ fAVG size. Number of samples use to calculate the slow average. Shwon as the small line left in the scope. Turns red if above the treshhold.
 
     # fAVG treshhold
         If the slow average moves above this treshhold it will trigger a retraction. 
