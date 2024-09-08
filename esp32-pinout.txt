@@ -3,9 +3,9 @@
 # ESP32 WROOM 32 with 38 Pins with CP2102 
 # https://www.amazon.de/AZDelivery-NodeMCU-Development-Nachfolgermodell-ESP8266/dp/B074RGW2VQ
 # There are many different ILI9341 version available. Double check to get the correct one.
-# Touch support, SD card, 2.4", SPI, COmpare the images in the build section
+# Touch support, SD card, 2.4", SPI, Compare the images in the build section
 # The ILI has a small solderjumper on the back. If used in a 3.3v environment this jumper needs to be bridged.
-# The raw display will work with the jumper not brdged but SD writes will fail. See the build image section for details.
+# The raw display will work with the jumper not bridged but SD writes will fail. See the build image section for details.
 ##########################################################################################################################
 
    ### ILI9341 2.4" SPI TFT with Touch and SD card ###
