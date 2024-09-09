@@ -40,13 +40,13 @@ Never connect the USB to the ESP while it is plugged into the PCB. I have never 
 If the PCB is powered AND USB is connected too it will burn the ESP for sure. But maybe it could burn the buck converter stage
 even if the board is not powered. As said. Maybe.
 
-Remove the ESP from the PCB and connect it via USB to the PC. O
+Remove the ESP from the PCB and connect it via USB to the PC. 
 I am working with Linux and it is possible that the user needs privilegs to access the USB device.
 In Linux this can be done via a small command in the terminal as root:
 
 ttyUSB0 may be different on other machines. Figure it out via google and chatgpt. 
 
-    sudo chown -R crypt /dev/ttyUSB0
+    sudo chown -R YOURUSERNAME /dev/ttyUSB0
 
 
 In vStudio at the top right is a small check or arrow icon with a dropdown menu. Open the small menu and select upload. Then click the upload icon.
