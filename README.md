@@ -59,7 +59,7 @@ https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
 
 Read the DPM manual and set the Baudrate to the highest possible if communication is wanted: Baud 115200
-If this is not doen communication will fail.
+If this is not done communication will fail.
 
 
 
