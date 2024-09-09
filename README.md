@@ -69,6 +69,7 @@ After first boot it will start the display calibration. If for some reason a mis
 To get there just click the small panel on top of the integrated scope and navigate to the UI settings page.
 
 
+Next adjust the busvoltage feedback.
 This is a little tricky but needs to be learned.
 
     1. Adjust the pulseboard bus voltage feedback to ensure a fast digital low once the DPM voltage drops
