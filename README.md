@@ -51,7 +51,7 @@ ttyUSB0 may be different on other machines. Figure it out via google and chatgpt
 
 In vStudio at the top right is a small check or arrow icon with a dropdown menu. Open the small menu and select upload. Then click the upload icon.
 
-Sometimes there is some stuff going that seems to block flashing. If the flashing does not success hit the upload button again.
+Sometimes there is some stuff going that seems to block flashing. If the flashing failed just hit the upload button again.
 If the second attempt does not work there is a different problem.
 
 On windows it may be required to install a driver for the CP2102 first:
