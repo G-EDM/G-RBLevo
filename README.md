@@ -1,7 +1,9 @@
-# Nothing to see here yet!
+# G-RBL - A three axis motion control software for electrical discharge mashining
 
-Once everything is done the firmware can be found here
-
+    "Doing Wire EDM in your shop and on your tabletop,
+    never waste time with two eyes on your clock, waiting for a collab with da doc or a file drop 
+    tick tock,.,. get the holes popped-and,.,.,.
+    pull the string from the top through the stock with a nonstop flush-in-the-cut-of-your-block"
 
 
 
@@ -19,7 +21,11 @@ Once everything is done the firmware can be found here
 
 Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire.
 
+# Notes
 
+    Need an ILI touch display to work. See the G-EDM EVOII router repository for details.
+    Even if the name suggest it it does not work the way Grbl does
+    Read the manual.
 
 # Install
 
