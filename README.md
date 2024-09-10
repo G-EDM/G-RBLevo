@@ -1,4 +1,4 @@
-# G-RBL - A three axis motion control software for electrical discharge mashining
+# G-RBL - A three axis motion control software for electrical discharge machining
 
     "Doing Wire EDM in your shop and on your tabletop,
     never waste time with two eyes on your clock, waiting for a collab with da doc or a file drop 
