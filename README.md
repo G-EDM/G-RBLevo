@@ -15,6 +15,15 @@ https://github.com/G-EDM/GEDM-EVO2-CNC
 </br>
 </br>
 
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/111.jpg">
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/3.jpg">
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/444.jpg">
+
+</br>
+</br>
+</br>
+
+
 # G-RBL EVOII Firmware ⚡⚡⚡
 
 ```diff
@@ -27,11 +36,9 @@ https://github.com/G-EDM/GEDM-EVO2-CNC
 
 Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire.
 
-
-
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/111.jpg">
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/3.jpg">
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/444.jpg">
+</br>
+</br>
+</br>
 
 
 # Notes
@@ -152,10 +159,10 @@ This is a little tricky but needs to be learned.
         
 
         
-        
-        
-        
-        
+</br>
+</br>
+</br>
+
 
 
 
