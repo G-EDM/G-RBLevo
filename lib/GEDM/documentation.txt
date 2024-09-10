@@ -1,0 +1,41 @@
+Full documentation:
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
+
+#### Main Menu ####
+
+1. PWM
+
+    - PWM Frequency
+    - PWM Duty
+
+2. Flushing
+
+
+3. Spark
+
+    - Setpoint Min 
+    - Setpoint Max
+    - Samples
+
+
+4. Mode
+
+
+5. Motion
+
+    - Homing
+    - Probing
+    - Others
+
+
+6. SD_Card
+
+
+
+
+#### Process screen controls ####
+
+
+
