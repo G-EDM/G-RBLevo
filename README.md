@@ -6,10 +6,14 @@
     pull the string from the top through the stock with a nonstop flush-in-the-cut-of-your-block"
 
 
-# Gerber files, schematics and more can be found here: https://github.com/G-EDM/GEDM-EVO2-CNC
+# Gerber files, schematics and more can be found here: 
+
+https://github.com/G-EDM/GEDM-EVO2-CNC
 
 
-
+</br>
+</br>
+</br>
 
 # G-RBL EVOII Firmware ⚡⚡⚡
 
