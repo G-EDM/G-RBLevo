@@ -23,8 +23,8 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
 
 # Notes
 
-    Need an ILI touch display to work. See the G-EDM EVOII router repository for details.
-    Even if the name suggest it it does not work the way Grbl does
+    Needs an ILI touch display to work. See the G-EDM EVOII router repository for details.
+    Even if the name suggest it, it does not work the way Grbl does
     Read the manual.
 
 # Install
