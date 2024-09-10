@@ -6,10 +6,7 @@
     pull the string from the top through the stock with a nonstop flush-in-the-cut-of-your-block"
 
 
-# Gerber files, schematics and more can be found here
-
-https://github.com/G-EDM/G-RBLevo
-
+# Gerber files, schematics and more can be found here: https://github.com/G-EDM/GEDM-EVO2-CNC
 
 
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/111.jpg">
