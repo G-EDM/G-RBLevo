@@ -9,10 +9,6 @@
 # Gerber files, schematics and more can be found here: https://github.com/G-EDM/GEDM-EVO2-CNC
 
 
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/111.jpg">
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/3.jpg">
-<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/444.jpg">
-
 
 
 # G-RBL EVOII Firmware ⚡⚡⚡
@@ -25,8 +21,14 @@
   ██████        ███████ ██████  ██      ██ 
 ```
 
-
 Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire.
+
+
+
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/111.jpg">
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/3.jpg">
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/444.jpg">
+
 
 # Notes
 
