@@ -23,14 +23,14 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
 
 # Install
 
-Download the folder evoII-firmware.
+Download the repo into a folder.
 
 
 # Install vStudio with the Platform.io extension 
 
 
 In the left panel in vStudio click the extension icon. Use the search field to search for PlatformIO and install it.
-Restart vStudio and then open the evoII-firmware folder via the file menu ->open_folder. After the folder is loaded platform.io will setup some things. Once it is finished with the first setup vCode should be restarted. 
+Restart vStudio and then open the folder via the file menu ->open_folder. After the folder is loaded platform.io will setup some things. Once it is finished with the first setup vCode should be restarted. 
 Sometimes it will fail after the initial loading if not restarted.
 
 # Flash the firmware to the ESP32
