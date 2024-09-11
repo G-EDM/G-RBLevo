@@ -15,7 +15,11 @@ There are a lot of parameters to adjust the process. Some are available on the f
 Touch the top bar of the scope to enter the menu and use the navigation arrows to change pages.
 
 
+#### On/Off Switch ####
 
+    The On/Off switch is required. If turned to OFF all motion is blocked. The navigation arrows are grey.
+    The PWM can be anabled with the switch in OFF state. The scope will work but the process will not start
+    until the switch is turned to ON. The switch can also be used to cancel a runnign job or/and stop running motions like an eStop button does.
 
 #### Menu from the scope - Hit the scope top bar to access it ####
 
