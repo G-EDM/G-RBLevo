@@ -49,7 +49,7 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
     Test: Turn the on/off switch to off and enable PWM to have the scope running. If the line is at the top without load I2S is bricked.
 
     As said this is not some random thing that occurs just from compiling the same code multiple times.
-    Is related to specific changes in the code itself.
+    It is related to specific changes in the code itself.
     If the scope shows no error the used code as it is will never produce this bug. 
     If the scope shows an error the change made is the trigger and the code will always create the error if not changed.
 
