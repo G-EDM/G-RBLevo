@@ -51,8 +51,9 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
     At one point just changing the steps/mm to a different value fired the error.
     If a change in the config triggers this error it is visible on the scope. The ADC reads the max value all the time and the line is flat at the top of the scope.
     If a change triggers this error there are some potential ways to adress it. Normally it indicates that somewhere something related to
-    multi threadings is wrong but it was impossible for me to find the true source of error. Changing it may fix it but sometimes adding another #define line 
-    or just change other aprts of the code helps too.
+    multi threadings is wrong but it was impossible for me to find the true source of error. Sometimes adding another #define line 
+    or just change other parts of the code helps too. Based on the debugging I did the fix for the error that worked showed no direct connection to anything.
+    Maybe some very deeply nested multithreading stuff somewhere but as said. It is a mystery bug.
     I can't really provide help at the moment but if the error occurs in relation to changing the steps/mm in the config file then just stick to the original code
     and change the resolution via UI.
     
