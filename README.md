@@ -39,7 +39,11 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
 </br>
 </br>
 </br>
-# Warning
+# Warning - The mystery bug
+
+    First things first: The bug is a persistent bug that will not occur randomly on a working codebase like the one provided but can occur after 
+    something in the code is changed. Once a change in the code triggers the bug it is persistent and just recompiling the same code will not fix it.
+    There are some potential workarounds. 
 
     There is a very mysterious bug going on with I2S that I was not able to fix. It does not affect the new espressif32 version but the 3.0.0 version
     used in this code is affected. The I2S reading on the old version is just better. The new version reads a lot of duplicates and the result is not
