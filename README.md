@@ -80,7 +80,7 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
     There are different DPM8605 versions available. The cheap one is used that has the simple protocol activated. Not the RS version.
     Also it may be a good choice for the future to look at the DPH8909. 
     It seems like that this device has the same display and the same protocol but allows a much higher voltage up to 96v and 10A current. 
-    Well.. Maybe it is not that easy to build. I was not able to find any 100v power supplies at an acceptable price tag. 
+    Well.. Maybe it is not that easy to build. I was not able to find any >72v power supplies at an acceptable price tag. 
     Basically the only one I found would cost multiple hundreds. Also the max voltage on the pulseboard should not exceed 90v. 
     The board has 100v Zener diodes to protect the INA inputs that have a max common mode voltage of 110v.
     The DPM/DPH series are just buck converters that need an external source of power.
