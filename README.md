@@ -39,6 +39,26 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
 </br>
 </br>
 </br>
+# Warning
+    There is a very mysterious bug going on with I2S that I was not able to fix. It does not affect the new espressif32 version but the 3.0.0 version
+    used in this code is affected. The I2S reading on the old version is just better. The new version reads a lot of duplicates and the result is not
+    really close as good as the readings from the 3.0.0 version.
+    But for some reason it seem very picky about race conditions or potential race conditions. Not really sure if is has to do with multicore stuff at all
+    but it seems to. The multicore stuff is not done very well. Having true threadsafe code slows things down and if one core just reads an int etc it is not worth it.
+    BUT... I2S is very picky about it even if it does not really use the variables itself.
+    And the strange thing: The bug occurs sometimes if random integer values are changed. Especially in the config file.
+    At one point just changing the steps/mm to a different value fired the error.
+    If a change in the config triggers this error it is visible on the scope. The ADC reads the max value all the time and the line is flat at the top of the scope.
+    If a change triggers this error there are some potential ways to adress it. Normally it indicates that somewhere something related to
+    multi threadings is wrong but it was impossible for me to find the true source of error. Changing it may fix it but sometimes adding another #define line 
+    or just change other aprts of the code helps too.
+    I can't really provide help at the moment but if the error occurs in relation to changing the steps/mm in the config file then just stick to the original code
+    and change the resolution via UI.
+    
+
+</br>
+</br>
+</br>
 
 
 # Notes
