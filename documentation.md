@@ -15,6 +15,13 @@ There are a lot of parameters to adjust the process. Some are available on the f
 Touch the top bar of the scope to enter the menu and use the navigation arrows to change pages.
 
 
+#### Homing ####
+
+    Homing is not required. After boot the machine position will asume to be at the center of each axis.
+    Most of the time homing can be fully ignored. Just jog the machine to the start position and rund the file. Homing position itself is the tool at the back right position. X homes to the right, Y homes backwards and Z homes upwards.
+
+
+
 #### On/Off Switch ####
 
     The On/Off switch is required. If turned to OFF all motion is blocked. The navigation arrows are grey.
