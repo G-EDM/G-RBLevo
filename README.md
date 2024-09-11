@@ -45,6 +45,14 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
     something in the code is changed. Once a change in the code triggers the bug it is persistent and just recompiling the same code will not fix it.
     There are some potential workarounds. 
 
+    Symptoms: The ADC readings returns the highest value all the time and the scope will always show a flat line at the top indicating a full load.
+    Test: Turn the on/off switch to off and enable PWM to have the scope running. If the line is at the top without load I2S is bricked.
+
+    As said this is not some random thing that occurs just from compiling the same code multiple times.
+    Is related to specific changes in the code itself.
+    If the scope shows no error the used code as it is will never produce this bug. 
+    If the scope shows an error the change made is the trigger and the code will always create the error if not changed.
+
     There is a very mysterious bug going on with I2S that I was not able to fix. It does not affect the new espressif32 version but the 3.0.0 version
     used in this code is affected. The I2S reading on the old version is just better. The new version reads a lot of duplicates and the result is not
     really close as good as the readings from the 3.0.0 version.
