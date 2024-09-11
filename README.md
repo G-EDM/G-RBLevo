@@ -86,7 +86,7 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
     The DPM/DPH series are just buck converters that need an external source of power.
 
     Needs an ILI touch display to work too. See the G-EDM EVOII router repository for details.
-    Even if the name suggest it, it does not work the way Grbl does. The Name G-RBL was emerged from a joke in the beginning.
+    Even if the name suggest it, it does not work the way Grbl does. The Name G-RBL emerged from a joke in the beginning.
     Read the manual.
 
 # Install
