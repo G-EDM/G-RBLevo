@@ -13,14 +13,19 @@ The code is not comparable to Grbl. Don't expect anything to work like it does w
 There are a lot of parameters to adjust the process. Some are available on the front page via the left menu buttons but the most are within the menu that can be opened from the scope.
 
 Touch the top bar of the scope to enter the menu and use the navigation arrows to change pages.
-
+</br>
+</br>
+</br>
 
 #### Homing ####
 
-    Homing is not required. After boot the machine position will asume to be at the center of each axis.
-    Most of the time homing can be fully ignored. Just jog the machine to the start position and rund the file. Homing position itself is the tool at the back right position. X homes to the right, Y homes backwards and Z homes upwards.
+    Homing is not required. 
+    After boot the machine position will be set to the center of each axis.
+    Most of the time homing can be fully ignored. Just jog the machine to the start position and run the file. Homing position itself is the tool at the back right position. X homes to the right, Y homes backwards and Z homes upwards. If the object is big maybe it is better to home first to not exceed machine limits.
 
-
+</br>
+</br>
+</br>
 
 #### On/Off Switch ####
 
