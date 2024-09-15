@@ -55,7 +55,7 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
         This value is in percent from the max ADC resolution. 4096 = 100%.
 
     # Setpoint max
-        Part of the retraction logic. 
+        Part of the retraction logic. The slow average tries to remain below this value.
 
     # Spindle RPM
         Speed of the spindle stepper that pulls the wire. 
@@ -139,12 +139,6 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
     # FullRangeAVG size
         Slow AVG/Full range AVG/ fAVG size. Number of samples used to calculate the slow average. Shwon as the small line left in the scope. Turns red if above the treshhold.
 
-    # fAVG treshhold
-        If the slow average moves above this treshhold it will trigger a retraction. 
-
-    # Pulse count jitter
-        deprecated and not used anymore. Need to remove this.
-
 
 # Page 6
 
@@ -153,7 +147,7 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
         At 20khz a pulse is a few us. It will convert the pulsenumber into time.
 
     # Early exit on
-       If early exit on retractions is enabled it will exit retraction once the motion plan is at this point. 
+       Higher value means a more aggressive exit strategy.
 
     # Line end confirms
        On a line end it will confirm the forward motion x times before it moves to the next line. For arcs half of that value is used.
@@ -178,9 +172,6 @@ Touch the top bar of the scope to enter the menu and use the navigation arrows t
 
     # Zero treshhold
         ADC value treshhold. Count low readings only if the ADC value is above this. Helps to ignore noise etc.
-
-    # High count at
-        Defines what motion plan is interpreted as a high plan
 
 # Page 8
 
