@@ -1,7 +1,5 @@
-# Premature release with some bugs
-    This code has some bugs I noticed after looking deeper into the process. 
-    The fast digital reading is noisy. 
-    It is already fixed and there will be an update soon!
+# Premature release 
+    It is possible that probing fails. Don't have time to test everything. Only wire mode is tested.
 
 
 # G-RBL - A three axis motion control software for electrical discharge machining
