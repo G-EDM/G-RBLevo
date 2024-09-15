@@ -1,3 +1,9 @@
+# Premature release with some bugs
+    This code has some bugs I noticed after looking deeper into the process. 
+    The fast digital reading is noisy. 
+    It is already fixed and there will be an update soon!
+
+
 # G-RBL - A three axis motion control software for electrical discharge machining
 
     "Doing Wire EDM in your shop and on your tabletop,
