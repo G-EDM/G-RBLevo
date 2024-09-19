@@ -1,3 +1,10 @@
+# Already deprecated
+This is the future version: 
+https://github.com/G-EDM/G-RBLevoII-developer
+</br>
+</br>
+</br>
+
 # Premature release 
     It is possible that probing fails. Don't have time to test everything. Only wire mode is tested.
 
