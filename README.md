@@ -1,4 +1,4 @@
-# Already deprecated
+# Already deprecated and the repo will switch to the developer version soon
 This is the future version: 
 https://github.com/G-EDM/G-RBLevoII-developer
 </br>
