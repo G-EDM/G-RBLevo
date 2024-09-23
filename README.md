@@ -7,7 +7,27 @@
     The max current trigger is in % relative to max 
     The ADC voltage logic low is in ADC resolution. 
     
+# Settings file
 
+    After the first boot the firmware will generate a directory tree. 
+    gedm3/settings
+    gedm3/gcode
+
+    All .gcode files need to be in the gcode folder and all .PRO settings files will be located in the settings folder.
+
+    The 30MM-DUAL-SAFE.PRO settings file is very slow but works. It did the 30mm mild steel cut. 
+    After I had settings that worked I haven't changed them further. 
+    There is room to improve it.
+    But this file is a good starting point.
+    DPM was set to 0.8A
+
+# Adjust vFd
+    The vFd ADC reading on the scope should be at 2040 without water and load. 
+    The big poti on the pulseboard is used to set it. 
+    There is a setting to adjust the trigger treshold but 2040 without load is about what I have. 
+    Turn the on/off switch to off, enable PWM, enable the DPM @60v and adjust the poti until the vFd is correct. This is important. 
+
+    
 
 # G-RBL - A three axis motion control software for electrical discharge machining
 
