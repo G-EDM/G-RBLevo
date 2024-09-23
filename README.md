@@ -1,12 +1,9 @@
-# Already deprecated and the repo will switch to the developer version soon
-This is the future version: 
-https://github.com/G-EDM/G-RBLevoII-developer
-</br>
-</br>
-</br>
+
 
 # Premature release 
     It is possible that probing fails. Don't have time to test everything. Only wire mode is tested.
+    There is a small menu page for probing now to adjust both setpoints.
+    The current relative to max current and the ADC voltage reading considered a logic low.
 
 
 # G-RBL - A three axis motion control software for electrical discharge machining
