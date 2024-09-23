@@ -1,9 +1,12 @@
 
 
 # Premature release 
-    It is possible that probing fails. Don't have time to test everything. Only wire mode is tested.
+    If probing fails:
     There is a small menu page for probing now to adjust both setpoints.
     The current relative to max current and the ADC voltage reading considered a logic low.
+    The max current trigger is in % relative to max 
+    The ADC voltage logic low is in ADC resolution. 
+    
 
 
 # G-RBL - A three axis motion control software for electrical discharge machining
