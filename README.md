@@ -37,6 +37,7 @@ Firmware for the G-EDM EVOII router. XYZ axis + spindle stepper to pull the wire
 # Adjust vFd
     The vFd ADC reading on the scope should be at 2040 without water and load. 
     The big poti on the pulseboard is used to set it. 
+    In theory it can be ayn value above 2000 but then it would require different settings for thresholds.
     There is a setting to adjust the trigger treshold but 2040 without load is about what I have. 
     Turn the on/off switch to off, enable PWM, enable the DPM @60v and adjust the poti until the vFd is correct. This is important. 
 
