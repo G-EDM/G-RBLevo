@@ -58,6 +58,11 @@ https://github.com/G-EDM/GEDM-EVO2-CNC
 </br>
 </br>
 
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/sf1.jpg">
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/sf2.jpg">
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/sf3.jpg">
+
+
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/111.jpg">
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/3.jpg">
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/444.jpg">
