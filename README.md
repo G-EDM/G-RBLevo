@@ -58,10 +58,23 @@ https://github.com/G-EDM/GEDM-EVO2-CNC
 </br>
 </br>
 
+# 2mm stainless steel
+
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/sf1.jpg">
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/sf2.jpg">
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/sf3.jpg">
 
+</br>
+</br>
+
+# 30mm mild steel
+
+<img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/30mm-ms.jpg">
+
+</br>
+</br>
+
+# 2mm stainless steel
 
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/111.jpg">
 <img src="https://raw.githubusercontent.com/G-EDM/GEDM-EVO2-CNC/main/media/images/3.jpg">
