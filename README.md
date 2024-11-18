@@ -1,6 +1,6 @@
-# Warning
+# Update
 
-Sinke mode is currently corrupted in this version. It will be fixed with the next update soon.
+Sinker mode should be fixed now. But it was just a short test. Good luck.
 
 
 # G-RBL EVOII Firmware ⚡⚡⚡
