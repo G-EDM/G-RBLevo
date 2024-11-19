@@ -2,6 +2,13 @@
 
 Sinker mode should be fixed now. But it was just a short test. Good luck.
 
+Also: After exiting a pause in the process the display resets. 
+This is not a bug but a very dirty solution for a randomly occuring problem with the display.
+It can happen sometimes that the EDM noise messes with the display communication and thus creating strange effects like screen rotation etc.
+Doesn't happen often but once it happens in the process it really sucks. The hack for now is to press the right bottom in the process window where
+the pause/resume button is. Touch remains working and it will reset the display. Due to the random nature of this problem I was not able
+to test it as it just doesn't happen a lot. 
+
 
 # G-RBL EVOII Firmware ⚡⚡⚡
 
