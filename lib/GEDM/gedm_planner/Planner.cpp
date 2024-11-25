@@ -297,7 +297,7 @@ bool IRAM_ATTR G_EDM_PLANNER::process_wire( Line_Config &line ){
         if( ! _state.wire_has_first_contact ){
             no_load_steps          = 0;
             line.ignore_feed_limit = true;
-            line.step_delay        = process_speeds.RAPID;
+            line.step_delay        = round( process_speeds.RAPID * 2 );
         } 
 
 
