@@ -1,3 +1,17 @@
+NEW: Firmware update can now be done via SD card after this firmware is already installed. Helps a lot with future updates.
+
+  This only works once this firmware with OTA support was already installed!
+  
+  * Compile the firmware with vStudio code and platform.io
+  * The file name needed is firmware.bin
+  * location should be within the project folder at:
+  * .pio/build/esp32dev/firmware.bin
+  * Copy the file to the sd card at top directory "/", put it into the G-EDM 
+  * and restart the machine
+  * the file will be renamed to firmware.bak to prevent another install
+
+
+
 # Update
 
 Sinker mode should be fixed now. But it was just a short test. Good luck.
