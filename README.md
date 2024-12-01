@@ -10,14 +10,6 @@ NEW: Firmware update can now be done via SD card after this firmware is already 
   * and restart the machine
   * the file will be renamed to firmware.bak to prevent another install
 
-# Note about the PICO settings file
-
-    This setting was done with the new version of the board. It uses a gate driver IC that has 
-    a different switching behaviour. To use it with the EVOII cube the duty cycle needs to be increased.
-    To figure it out just set the PWM to 40khz and manually short circuit it. Increase the duty in 1% steps until 
-    the voltage drops enough to read as a short circuit. Don't have a running cube setup for testing
-    right now and can't tell the exact duty cycle needed. Something between 12 to 20% I guess.
-
 
 # Update
 
