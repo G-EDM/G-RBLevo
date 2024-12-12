@@ -1,5 +1,5 @@
 # Note for first installation
-    If touch is not working after the first installation please it is possible that the display calibration was skipped.
+    If touch is not working after the first installation it is possible that the display calibration was skipped.
     Please enforce a recalibration by changing the line "#define REPEAT_DISPLAY_CALIBRATION false" to "#define REPEAT_DISPLAY_CALIBRATION true"
     in the file lib/config/definitions_common.h
     Reflash the code to the ESP and it will now enforce a recalibration with every boot. Once this is done
