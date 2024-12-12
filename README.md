@@ -1,3 +1,10 @@
+# Note for first installation
+    If touch is not working after the first installation please it is possible that the display calibration was skipped.
+    Please enforce a recalibration by changing the line "#define REPEAT_DISPLAY_CALIBRATION false" to "#define REPEAT_DISPLAY_CALIBRATION true"
+    in the file lib/config/definitions_common.h
+    Reflash the code to the ESP and it will now enforce a recalibration with every boot. Once this is done
+    change this value back to false and reflash the code back to the ESP again. The calibrationd data remains stored on the ESP.
+
 NEW: Firmware update can now be done via SD card after this firmware is already installed. Helps a lot with future updates.
 
   This only works once this firmware with OTA support was already installed!
