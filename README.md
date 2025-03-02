@@ -1,3 +1,8 @@
+# Deprecated
+
+Future firmware is PhantomEDM: https://github.com/G-EDM/PhantomEDM/tree/main
+
+
 # Note for first installation
     If touch is not working after the first installation it is possible that the display calibration was skipped.
     Please enforce a recalibration by changing the line "#define REPEAT_DISPLAY_CALIBRATION false" to "#define REPEAT_DISPLAY_CALIBRATION true"
