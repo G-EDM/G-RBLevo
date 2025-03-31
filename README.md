@@ -349,6 +349,6 @@ The code is for private use and research only and not meant to be compiled. If i
 
     * Every coffee counts. You want to donate something? 
     * Paypal: paypal.me/gedmdev
-    * Bitcoin: bc1q9akp00a5hceh9n3jc9wfttxuwuk9c7da0sqkr8
+    * Bitcoin: bc1qkz8vwrd3pupewdtyg09qj9nv249vlgdy4ffhyv
 
 <img src="https://raw.githubusercontent.com/G-EDM/G-EDM/main/images/artwork/donations/donate.png">
